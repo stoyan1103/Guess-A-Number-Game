@@ -1,5 +1,6 @@
 # The "Guess - A - Number" Game
 Simple console game "Guess a Number" on Java
+![guess](https://github.com/stoyan1103/Guess-A-Number-Game/assets/148537620/b328b5c0-f2a4-477f-b5e7-eda14930ebcf)
 
 1. Project Title
     Inside this project is a simple game written on IntelliJ Idea (using Java).
@@ -19,3 +20,6 @@ Simple console game "Guess a Number" on Java
         - Otherwise he losts the game and is asked if he wants to play again
     c) Source code:
         - https://pastebin.com/EhBeuNue 
+
+4. Screenshot of example:
+        - ![Screenshot 2024-06-05 012241](https://github.com/stoyan1103/Guess-A-Number-Game/assets/148537620/9730a941-0705-438e-8b96-eeeca3335931)
